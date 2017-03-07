@@ -1,4 +1,4 @@
-FROM mysql:5.6
+FROM toughiq/mariadb-cluster:2.1
 MAINTAINER Tim Pouyer <tpouyer@us.ibm.com>
 
 # Initial the DB 
